@@ -50,6 +50,8 @@ html    {
     cursor: pointer;
     border: none;
     text-align: center;
+    appearance: none;
+    -webkit-appearance: none;
 }
 
 .btn:hover    {
@@ -559,7 +561,7 @@ body    {
     position: relative;
     display: flex ; 
     gap: 25px;
-    margin-left: 37%;
+    margin-left: 39%;
 }
 
 #footer ul li   {

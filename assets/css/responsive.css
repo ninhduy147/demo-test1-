@@ -120,6 +120,10 @@
 
     #footer .socials-list   {
         font-size: 32px;
+        padding-bottom: 14px;
     }
 
+    .contact-info {
+        font-size: 16px;
+    }
 }
